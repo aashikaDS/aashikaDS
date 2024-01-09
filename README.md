@@ -22,6 +22,7 @@ Certified Data Science and Machine Learning Professional with a focus on predict
 🌐 Connect with Me:
 
 LINKEDIN : www.linkedin.com/in/aashika-dataanalyst
+
 GMAIL : aashika.ds2024@gmail.com
 
 ⚡ Fun Fact:
