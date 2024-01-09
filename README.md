@@ -10,7 +10,9 @@ Dedicated to continuous learning, constantly exploring the latest technologies t
 🔧 Tech Stack:
 
 Languages: Python, SQL
+
 Tools: Pandas, NumPy, Matplotlib, Seaborn, Tableau, Power BI, Excel
+
 Machine Learning: Regression, Classification, Clustering, NLP
 
 📚 Certifications:
